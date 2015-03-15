@@ -1,0 +1,10 @@
+# Ignore installed modules code.
+node_modules
+
+.DS_Store
+*~
+
+# Ignore client side-side library code.
+bundles
+
+npm-debug.log*
